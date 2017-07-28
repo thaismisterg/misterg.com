@@ -2,21 +2,21 @@
 Desenvolvido Por: mLabs
 -->
 <?php
-$url = "http://m-l-a-b-s.com/";
+$url = "http://m-i-s-t-e-r-g.com/";
 $title = "mLabs";
 
 $var = array(
         "1" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/2m6xCjt"
+                  "titulo" => "Jingle",
+                  "image" => "https://static.wixstatic.com/media/5fdb3e_31f03fc5a07e43e991e60bc29f132aef~mv2.png/v1/fill/w_76,h_49,al_c,usm_0.66_1.00_0.01/5fdb3e_31f03fc5a07e43e991e60bc29f132aef~mv2.png"
                   ),
         "2" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/1pptU1s"
+                  "titulo" => "Spot",
+                  "image" => "https://static.wixstatic.com/media/5fdb3e_2f57026b8d1c419d86adb1f05f62602d~mv2.png/v1/fill/w_65,h_65,al_c,usm_0.66_1.00_0.01/5fdb3e_2f57026b8d1c419d86adb1f05f62602d~mv2.png"
                   ),
         "3" => array(
-                  "titulo" => "mLabs",
-                  "image" => "http://gph.is/NYwUyC"
+                  "titulo" => "Sound Branding",
+                  "image" => "https://static.wixstatic.com/media/5fdb3e_6108ade923744f4192028fca53a08e4b~mv2.png/v1/fill/w_67,h_66,al_c,usm_0.66_1.00_0.01/5fdb3e_6108ade923744f4192028fca53a08e4b~mv2.png"
                   ),
         );
 
