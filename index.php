@@ -3,7 +3,7 @@ Desenvolvido Por: mLabs
 -->
 <?php
 $url = "http://m-i-s-t-e-r-g.com/";
-$title = "mLabs";
+$title = "Mister G";
 
 $var = array(
         "1" => array(
@@ -35,6 +35,6 @@ $section = array_rand($var);
 
 <script>
   setTimeout(function(){
-    window.location='https://www.mlabs.com.br/';
+    window.location='https://www.conhecamisterg.com/';
   },100);
 </script>
